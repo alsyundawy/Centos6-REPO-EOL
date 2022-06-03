@@ -1,8 +1,8 @@
-# Centos6-REPO-EOL
-CentOS 6 Repository EOL
+# CentOS 6 Repository EOL
 
 
 CentOS 6 Repository EOL
+
 
 curl https://raw.githubusercontent.com/alsyundawy/Centos6-REPO-EOL/main/CentOS-Base.repo --output /etc/yum.repos.d/CentOS-Base.repo
 
